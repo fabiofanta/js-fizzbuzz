@@ -3,19 +3,3 @@
     padding: 0;
     box-sizing: border-box;
   }
-
-  .container {
-    display: flex;
-    width: 100vh;
-    height: 100vw;
-  }
-
-  .box {
-      display: flex;
-      flex-wrap: wrap;
-  }
-
-  p {
-      width: 100px;
-      height: 100px;
-  }
