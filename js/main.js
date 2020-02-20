@@ -17,6 +17,6 @@ for (var i = 1; i <= 100; i++) {
     } else {
         numbers.push(i);
     }
-}
 
-document.getElementById('text').innerHTML = numbers;
+    document.getElementById("text").innerHTML = numbers;
+}
