@@ -21,6 +21,8 @@ for (var i = 1; i <= 100; i++) {
 
 }
 
+document.getElementById('text').innerHTML = numbers
+
 
 // var resto = i % 3;
 // var restoDue = i % 5;
